@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "6f34",
+      "name": "sunilrajj",
+      "email": "sunilraj8373@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "c0c5",
+      "name": "karthick",
+      "email": "sunilraj@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "restaurant": [
+    {
+      "name": "Domino's Pizza",
+      "contact": 22222,
+      "address": "Gurgaon sector 10",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Subway",
+      "contact": 33333,
+      "address": "Delhi Connaught Place"
+    },
+    {
+      "id": "4",
+      "name": "Pizza Hut",
+      "contact": 44444,
+      "address": "Bangalore MG Road"
+    },
+    {
+      "id": "5",
+      "name": "KFC",
+      "contact": 55555,
+      "address": "Mumbai Bandra West"
+    },
+    {
+      "id": "3eb5",
+      "name": "Gourmet Paradise",
+      "address": "123 Culinary Blvd",
+      "contact": 123456
+    }
+  ]
+}
